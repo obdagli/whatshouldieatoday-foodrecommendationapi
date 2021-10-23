@@ -3,6 +3,9 @@ Food recommendation api coded via Python/Django Rest Framework
 
 ----------------------------------
 Content-based filtering : This recommendation type looks at the contents of the meals you have eaten in the past and offers you suggestions accordingly.
+
+
+
 Collaborative filtering : This recommendation type offers a recommendation by comparing you with people with the closest taste to you.
 -----------------------------------
 
