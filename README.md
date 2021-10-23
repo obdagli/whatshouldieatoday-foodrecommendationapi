@@ -1,6 +1,11 @@
 # whatshouldieatoday-foodrecommendationapi
 Food recommendation api coded via Python/Django Rest Framework
 
+----------------------------------
+Content-based filtering : This recommendation type looks at the contents of the meals you have eaten in the past and offers you suggestions accordingly.
+Collaborative filtering : This recommendation type offers a recommendation by comparing you with people with the closest taste to you.
+-----------------------------------
+
 We should go to the root folder of the project and write "source venv/bin/activate" and go to the virtual environment part.
 In this part, the following step may not be necessary since django and rest framework are already installed in this project.
     If not;
