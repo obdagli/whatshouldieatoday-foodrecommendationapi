@@ -18,4 +18,4 @@ After all the packages are installed, to start the project, come to the "manage.
     
 Here is an example for starting the project.
 
-![example start](https://www.hizliresim.com/e4e57ic)
+![example start](project-start-example.png)
